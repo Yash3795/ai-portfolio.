@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vivek Yadav | AI Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vivek Yadav</h1>
+    <p class="typing-text"></p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a passionate developer focused on building creative, intelligent, and futuristic web experiences. I love working with AI, design, and automation.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Featured Projects</h2>
+    <div class="project-card">
+      <h3>Smart Task Manager</h3>
+      <p>An AI-based task manager that predicts your productivity pattern and helps organize daily workflow efficiently.</p>
+      <a href="#">View on GitHub</a>
+    </div>
+    <div class="project-card">
+      <h3>IoT Dashboard</h3>
+      <p>A real-time monitoring dashboard for IoT devices using live data visualization with Chart.js.</p>
+      <a href="#">View on GitHub</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:yashviv5300v@gmail.com">yashviv5300v@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">Yash3795</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Vivek Yadav | Powered by AI</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
